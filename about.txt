@@ -1,0 +1,3 @@
+My name: k. venkata sai lakshmi
+cource: BSC computer science
+commit: firtly,we learn what is GitHub then what can be used.
